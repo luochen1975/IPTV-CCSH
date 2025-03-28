@@ -42,6 +42,9 @@ jobs:
           git commit -m "黑白名单 AutoUpdate $(date +'%Y%m%d')"
 
       - name: Push changes
-        uses: ad-m/github-push-action@v1
+        uses: actions/github-script@v6
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const exec = require('@actions/exec');
+            await exec.exec('git push', ['origin', 'HEAD:${{ github.ref }}']);
+          github-token: ${{ secrets.GITHUB_TOKEN }}

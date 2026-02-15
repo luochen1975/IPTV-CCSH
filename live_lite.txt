@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260215 04:16,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4?contentid=2820180516001
+20260216 04:16,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4?contentid=2820180516001
 
 
 央视频道,#genre#
@@ -578,6 +578,7 @@ CETV4,http://kkk.888.3116598.xyz/api.php?n=tttt&id=rhrCc8&tk=FgM0vQMejxvG
 厦门卫视,http://219.146.95.58:59902/tsfile/live/0129_1.m3u8?txiptv
 厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
 厦门卫视,http://183.11.239.36:808/hls/17/index.m3u8
+厦门卫视,http://125.42.150.159:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 厦门卫视,http://kkk.888.3116598.xyz/api.php?n=tttt&id=w6Yl9t&tk=FgM0vQMejxvG
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8
@@ -1109,7 +1110,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 甄子丹,https://stream1.freetv.fun/ef4f9d40bc9d730028e673c6c4f5d820079f93682e8b053886280a925dd8a275.ctv
 动作影院,http://kkk.888.3116598.xyz/api.php?n=tttt&id=HNbgwe&tk=FgM0vQMejxvG
 喜剧影院,http://kkk.888.3116598.xyz/api.php?n=tttt&id=aRqMtM&tk=FgM0vQMejxvG
-万合出品,https://goodiptv.club/douyu/9220456
 
 
 电视剧频道,#genre#
@@ -1151,7 +1151,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 大时代,https://live.metshop.top/yy/1354930891
 法证先锋,https://live.metshop.top/yy/1354930965
 陀枪师姐,https://live.metshop.top/yy/1382688521
-陀枪师姐,https://live.metshop.top/huya/29465857
 放羊的星星,https://live.metshop.top/yy/1355260662
 天道,https://live.metshop.top/yy/1382735574
 安家,https://live.metshop.top/yy/12086226

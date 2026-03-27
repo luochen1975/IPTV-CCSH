@@ -4821,10 +4821,14 @@ AstroAEC,http://php.jdshipin.com/smt.php?id=AEC
 
 http://api.mytv666.top/lives/free.php?type=txt,#genre#
 https://iptv.catvod.com/tv.m3u,#genre#
-🎁陕西体育休闲频道,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=2
-🎁中国农林卫视,https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&line=2
-🎁上视东方影视,https://iptv.catvod.com/live.php?id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&line=2
-🎁安多卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86&line=1
+🎁天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&line=1
+🎁天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&line=2
+🎁天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&line=3
+🎁天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&line=4
+🎁咪视通-4,https://iptv.catvod.com/live.php?id=%E5%92%AA%E8%A7%86%E9%80%9A-4&line=1
+🎁咪视通-8,https://iptv.catvod.com/live.php?id=%E5%92%AA%E8%A7%86%E9%80%9A-8&line=1
+🎁咪视通-15,https://iptv.catvod.com/live.php?id=%E5%92%AA%E8%A7%86%E9%80%9A-15&line=1
+🎁咪视通-39,https://iptv.catvod.com/live.php?id=%E5%92%AA%E8%A7%86%E9%80%9A-39&line=1
 
 
 https://framagit.org/knnnn/n/-/raw/main/j/kzb.py,#genre#
@@ -4961,6 +4965,7 @@ https://live.hacks.tools/iptv/languages/zho.m3u,#genre#
 CTS(HUA-CHICTS),rtmp://59.124.75.138:1935/sat/tv111
 GuangzhouTV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 LotusMacauHD720p,https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+NeiMonggolTV(960p),https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
 QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 SipingTV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
@@ -4971,6 +4976,7 @@ https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
 
 
 https://live.izbds.com/tv/iptv4.m3u,#genre#
+广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -4979,7 +4985,6 @@ https://live.izbds.com/tv/iptv4.m3u,#genre#
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
-兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
 柳河,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
 桦甸,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
@@ -5118,14 +5123,16 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
-cctv1综合,https://stream1.freetv.fun/5ea694dedf81eabc3a9363cac99632afadb3d416016b833315847e5d1ee5dd3e.ctv
 cctv-01[geo-blocked],https://stream1.freetv.fun/d38c8a04ea8806126f87e7695d9cb09ebc6fcbaf38d443b92a77d4e37d1eb2e9.ctv
-cctv1综合,https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
+cctv1,https://stream1.freetv.fun/31f1a5c3a963625aff1eb70a33e10695ddabfc1d0f6c0c4e8bfeadf9d62a225e.ctv
 tvbplus[geo-blocked],https://stream1.freetv.fun/efea08e40d2af040689b157636dfc39a60cdd414ca5fa586e091a12876bb4bbf.ctv
+tvbplus,https://stream1.freetv.fun/548881d03dd2efa5b441269288dfa4b5ae56940f897255e1b0e9310d3248ae81.ctv
 tvb翡翠[geo-blocked],https://stream1.freetv.fun/0f0395c924dc13b6e2461a9ea78f4557372bbf3c2f7493d4ffd9181d3202f74d.ctv
+tvb翡翠,https://stream1.freetv.fun/99bb646a71d6fb69f3287af93bc08e97e334d626c7889509579bf47e76b641f8.ctv
 Viutv*ee[geo-blocked],https://stream1.freetv.fun/b5a76c27ebc1c319f7f069a1f275c700267fe7f78d2cc1d92d99f3d1c526538d.ctv
 剧集[geo-blocked],https://stream1.freetv.fun/b6a501d2882e86783e129b6bd4a12c0c8ac416e3bc4f630ff6b262d891514870.ctv
-凤凰香港[geo-blocked],https://stream1.freetv.fun/ada32bf1237524edb183dcdef8285a2da3dd390b3d59be112c09d1a9c38c1077.m3u8
+翡翠[geo-blocked],https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.m3u8
+翡翠[geo-blocked],https://stream1.freetv.fun/d9a2e34945118d998ae46a4440adbd8b97ad86e379c36161dbea8d01c7ea74a6.ctv
 
 
 https://gh.catmak.name/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -5136,6 +5143,7 @@ https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_
 https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.txt,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
+美亚电影,http://zjrtv.vip/live/?tbs=mydy
 项城新闻,@http://live.dxhmt.cn:9081/tv/11681-1.m3u8
 项城新闻,@http://p2.weizan.cn/978354/131995006225520039/live.m3u8
 
@@ -5195,15 +5203,27 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
+AntiquesRoadshowPBS,https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 BetterLifeTV,https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
+Buzzr,https://buzzrota-ono.amagi.tv/playlist.m3u8
+CaliforniaMusicChannel,https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
 DidgahTV(576p),https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 GlobalWorldTV,https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
 GoTraveler[Geo-blocked],https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
+JustforLaughsGags,https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
 LifevisionTV(406p)[Not24/7],https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
+MovieSphere,https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 OCNTV,https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
+Pac12Insider,https://pac12-firetv.amagi.tv/playlist.m3u8
 pocket.watchGameOn,https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
+Reuters,https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 SportsTVPlus,https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now
+TennisChannel,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+TheJamieOliverChannel,https://jamieoliver-xumo.amagi.tv/playlist.m3u8
+UniversalCrime,https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+USAToday,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 WSOC-DT1,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
+Xplore,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 
 
 https://iptv-org.github.io/iptv/countries/tw.m3u,#genre#
@@ -5272,6 +5292,7 @@ https://iptv.b2og.com/txt/fmml_ipv6.txt,#genre#
 
 https://m3u.ibert.me/txt/fmml_dv6.txt,#genre#
 https://m3u.ibert.me/txt/o_cn.txt,#genre#
+VOA美国之音_,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 
 
 https://m3u.ibert.me/txt/j_iptv.txt,#genre#

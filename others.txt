@@ -3974,26 +3974,6 @@ TVBXingHe,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
 http://api.mytv666.top/lives/free.php?type=txt,#genre#
 https://iptv.catvod.com/tv.m3u,#genre#
-[免费]CCTV15音乐,https://iptv.catvod.com/catvod?id=CCTV15%E9%9F%B3%E4%B9%90&line=1
-[免费]CCTV4欧洲,https://iptv.catvod.com/catvod?id=CCTV4%E6%AC%A7%E6%B4%B2&line=1
-[免费]CCTV4欧洲,https://iptv.catvod.com/catvod?id=CCTV4%E6%AC%A7%E6%B4%B2&line=2
-[免费]CCTV4欧洲,https://iptv.catvod.com/catvod?id=CCTV4%E6%AC%A7%E6%B4%B2&line=3
-[免费]CCTV4欧洲,https://iptv.catvod.com/catvod?id=CCTV4%E6%AC%A7%E6%B4%B2&line=4
-[免费]CCTV4欧洲,https://iptv.catvod.com/catvod?id=CCTV4%E6%AC%A7%E6%B4%B2&line=5
-[免费]CCTV9纪录,https://iptv.catvod.com/catvod?id=CCTV9%E7%BA%AA%E5%BD%95&line=1
-[免费]三沙卫视,https://iptv.catvod.com/catvod?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=1
-[免费]东方卫视,https://iptv.catvod.com/catvod?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=1
-[免费]厦门卫视,https://iptv.catvod.com/catvod?id=%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86&line=1
-[免费]安徽卫视,https://iptv.catvod.com/catvod?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=1
-[免费]江苏卫视,https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=1
-[免费]湖北①卫视频道,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8C%97%E2%91%A0%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&line=1
-[免费]湖北①卫视频道,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8C%97%E2%91%A0%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&line=2
-[免费]湖北①卫视频道,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8C%97%E2%91%A0%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&line=3
-[免费]湖北①卫视频道,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8C%97%E2%91%A0%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&line=4
-[免费]湖北①卫视频道,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8C%97%E2%91%A0%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&line=5
-[免费]赛事最经典,https://iptv.catvod.com/catvod?id=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&line=1
-[免费]赛事最经典,https://iptv.catvod.com/catvod?id=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&line=2
-[免费]赛事最经典,https://iptv.catvod.com/catvod?id=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&line=3
 
 
 https://framagit.org/knnnn/n/-/raw/main/j/kzb.py,#genre#
@@ -4078,23 +4058,22 @@ https://live.izbds.com/tv/iptv4.m3u,#genre#
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 电影丧尸片,http://live.metshop.top/huya/21059578?cdn=alicdn
 电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
-电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
 电影功夫片,http://live.metshop.top/huya/11352941?cdn=alicdn
-电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
 电影周星星,http://live.metshop.top/huya/11336587?cdn=alicdn
+电影嫣然影厅,http://live.metshop.top/huya/11601977?cdn=alicdn
 电影战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
-电影搞笑喜剧,http://live.metshop.top/huya/11342423?cdn=alicdn
 电影梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
-电影蜘蛛侠,http://live.metshop.top/huya/21059599?cdn=alicdn
+电影犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn
 电影谍战,http://live.metshop.top/huya/21059585?cdn=alicdn
 电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
 电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
 电影高分动作,http://live.metshop.top/huya/11352884?cdn=alicdn
 美亚电影,http://zjrtv.vip/live/?tbs=mydy
-广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
+云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
+福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
@@ -4243,9 +4222,9 @@ now爆谷星影[geo-blocked],https://stream1.freetv.fun/bb09e915206fe67068dd7c3d
 凤凰卫视香港,https://stream1.freetv.fun/0782cbbfb736bf0face160d2f69a58ad92ba9d5aecf8e063c610f5194ec0bd5c.ctv
 凤凰卫视中文,https://stream1.freetv.fun/bde4a425201648653d2bab6e1b9e58d3602d8919739ae8a0eb33e1c97ff205a8.ctv
 凤凰卫视中文,https://stream1.freetv.fun/abf0dd89a3d8030e6464e736ad8b2c92c562eee2c9e491fa324de6b5d50b558a.ctv
-凤凰卫视资讯,https://stream1.freetv.fun/f690170414a3ba9ddf0bbff3d2a1deeeccc37ab6c9198cd270d404412200f38c.ctv
 凤凰资讯频标[geo-blocked],https://stream1.freetv.fun/617a8537a2dabadc1f7067b07570d7a32f4bcee3dc60cb3519efc1a473e6d8ab.ctv
 凤凰卫视资讯,https://stream1.freetv.fun/fe31eaf5bb86cd05e17cde36410d5291e290a6380274cb40313ccf2da19cf6cd.ctv
+凤凰卫视资讯,https://stream1.freetv.fun/f690170414a3ba9ddf0bbff3d2a1deeeccc37ab6c9198cd270d404412200f38c.ctv
 凤凰香港频标[geo-blocked],https://stream1.freetv.fun/edba404c87df09382618cb52ea4aa6d58bc6ee92981d42969a012ef2893dda46.ctv
 黄金华剧[geo-blocked],https://stream1.freetv.fun/bedd12b5e35ca590f97dba15b55825b71c6a066cc95328f49b2d92c23927b910.m3u8
 
@@ -4260,7 +4239,6 @@ https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/ip
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 涟水电视台综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
-福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 项城新闻,@http://live.dxhmt.cn:9081/tv/11681-1.m3u8
 项城新闻,@http://p2.weizan.cn/978354/131995006225520039/live.m3u8
 

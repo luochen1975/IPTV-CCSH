@@ -4055,26 +4055,24 @@ https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
 
 
 https://live.izbds.com/tv/iptv4.m3u,#genre#
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 电影丧尸片,http://live.metshop.top/huya/21059578?cdn=alicdn
-电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
 电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
-电影功夫片,http://live.metshop.top/huya/11352941?cdn=alicdn
 电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
-电影周星星,http://live.metshop.top/huya/11336587?cdn=alicdn
+电影嫣然影厅,http://live.metshop.top/huya/11601977?cdn=alicdn
 电影战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
 电影搞笑喜剧,http://live.metshop.top/huya/11342423?cdn=alicdn
-电影梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
+电影犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn
+电影蜘蛛侠,http://live.metshop.top/huya/21059599?cdn=alicdn
 电影谍战,http://live.metshop.top/huya/21059585?cdn=alicdn
 电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
 电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
-电影高分动作,http://live.metshop.top/huya/11352884?cdn=alicdn
 美亚电影,http://zjrtv.vip/live/?tbs=mydy
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
-福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=2987cc24bada6a8c25589409a6452d9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
@@ -4219,7 +4217,7 @@ cctv-1,https://stream1.freetv.fun/aca593418a5d387996e89adf3a0452856e5623d7759d2f
 cctv-4k超,https://stream1.freetv.fun/2e338d7416c3646f38a085799295f137668d96a80a4393b71f1b82735ebdc7e8.ctv
 cctv-4k超,https://stream1.freetv.fun/3788e4fd295011461ce6ef1f10f19c7a7b379cd6adc4e7892222e5b140f1fb0f.ctv
 cctv-4k超,https://stream1.freetv.fun/c65a629c9e66ecd8e19b54929697db5a572222bf2969e74f81551a9e65148187.ctv
-cctv1综合[geo-blocked],https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
+cctv1综合,https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
 discoverykids[geo-blocked],https://stream1.freetv.fun/335cb41c7f9ef1230e57c8472e8760133277a4188ab7fa44647f63eb4cdc90a4.ctv
 discoverykids,https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.m3u8
 hoytv[geo-blocked],https://stream1.freetv.fun/a8a4700097401627b1a4c2b7e0ffa7f9077c33e3f37cc362d77403dccf954d24.m3u8
@@ -4227,7 +4225,6 @@ hallmarkmovieeast[geo-blocked],https://stream1.freetv.fun/4a4b386dc94f8e787255e4
 hallmarkmoviewest[geo-blocked],https://stream1.freetv.fun/c540e1c966fd0e1a81b7ae77393b6cc956761d9c5a13c2a3dce0fa80f4982a35.ctv
 now爆谷星影[geo-blocked],https://stream1.freetv.fun/bb09e915206fe67068dd7c3d55557f862599972924c662e015a1e4deed16253b.m3u8
 now爆谷[geo-blocked],https://stream1.freetv.fun/3f31f2dce2add4c7542daf68797a0bf424ceff7fb57654cbcf47f6b095189809.m3u8
-剧集,https://stream1.freetv.fun/b6a501d2882e86783e129b6bd4a12c0c8ac416e3bc4f630ff6b262d891514870.ctv
 无线新闻[geo-blocked],https://stream1.freetv.fun/d10385fcef54a3202d8f7dfb4ec5efcb3dec413590fa74f2f77d015bc9faab39.m3u8
 凤凰卫视香港,https://stream1.freetv.fun/0782cbbfb736bf0face160d2f69a58ad92ba9d5aecf8e063c610f5194ec0bd5c.ctv
 凤凰卫视中文,https://stream1.freetv.fun/bde4a425201648653d2bab6e1b9e58d3602d8919739ae8a0eb33e1c97ff205a8.ctv
@@ -4246,8 +4243,9 @@ https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_
 https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.txt,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 涟水电视台综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
+福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=2987cc24bada6a8c25589409a6452d9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 项城新闻,@http://live.dxhmt.cn:9081/tv/11681-1.m3u8
 项城新闻,@http://p2.weizan.cn/978354/131995006225520039/live.m3u8
@@ -4308,13 +4306,18 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
+AllRealityWeTV[Geo-blocked],https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8
+CBSNews24/7,https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
 DidgahTV(576p),https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
+GameShowCentral,https://aegis-cloudfront-1.tubi.video/55c4e96c-e345-486c-8f61-8320b61d734d/playlist.m3u8
 GlobalWorldTV,https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
 MotorTrendFASTTV,https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 NewKMOVIES,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_343&ads.service_id=GB1700007PK
 NewKPOP,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V
 SportsTVPlus,https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now
 STARInternational,https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+StoriesbyAMC,https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
+TheWalkingDeadUniverse[Geo-blocked],https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
 
 
 https://iptv-org.github.io/iptv/countries/tw.m3u,#genre#
@@ -4323,8 +4326,6 @@ https://iptv-org.github.io/iptv/countries/tw.m3u,#genre#
 https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt,#genre#
 https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716213337323/live3.txt,#genre#
 https://fm1077.serv00.net/SmartTV.m3u,#genre#
-
-
 https://live.zbds.top/tv/iptv4.txt,#genre#
 
 

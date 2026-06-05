@@ -3862,6 +3862,7 @@ https://web.banye.tech:7777/tv/hlj.txt,#genre#
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/电视.txt,#genre#
 http://xn--elt51t.azip.dpdns.org:5008/?type=txt,#genre#
 https://live.hacks.tools/iptv/languages/zho.m3u,#genre#
+BRTVKakuChildrensChannel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
 CTS(HUA-CHICTS),rtmp://59.124.75.138:1935/sat/tv111
 QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
@@ -3873,9 +3874,10 @@ https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
 
 
 https://live.izbds.com/tv/iptv4.m3u,#genre#
+电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+沭阳综合,https://shuyang-tv-hls.cm.jstv.com:443/shuyang-tv/shuyangzh.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
@@ -4012,7 +4014,17 @@ https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 cctv-8电视剧,https://stream1.freetv.fun/a59ac83779cb5370427192e331ba9f3d9f8dae2194dbe08c2cc23df97e30ae2e.ctv
 mgmplusmarque[geo-blocked],https://stream1.freetv.fun/a435ea8378e869f4318178ceeb43046e56fa842ab599851b9660284e7a536b68.ctv
+hoy资讯[geo-blocked],https://stream1.freetv.fun/b24a7d739a39cf40d6bf27b97c643af4f960493a5ee642d73eaca825b40d2823.m3u8
+hoy资讯,https://stream1.freetv.fun/d131ddf4da2e19800696e9c1b73383b83493d2604fe64afcf79555d98c74529c.ctv
+now新闻[geo-blocked],https://stream1.freetv.fun/20616f66b86683e10fd7ea8e601cf70ac08ba2a8b3c17241fcf398fcdec43753.m3u8
+tvbplus1[geo-blocked],https://stream1.freetv.fun/79fe2a2693c2d51c20d8256be713d1b0befef65e0631489a52653b37b13d242b.ctv
+无线新闻[geo-blocked],https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
+无线新闻[geo-blocked],https://stream1.freetv.fun/d10385fcef54a3202d8f7dfb4ec5efcb3dec413590fa74f2f77d015bc9faab39.m3u8
+无线新闻1[geo-blocked],https://stream1.freetv.fun/af065e0c98676802cea4635a08771ac1c97d6f89a4662481dbb52bcd82f92fdd.ctv
 翡翠,https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.ctv
+翡翠,https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.m3u8
+翡翠一台,https://stream1.freetv.fun/4bef1f350d737f4963d9b3011e1936b109569494e30151ee615a0c0b0c19a035.ctv
+翡翠台1[geo-blocked],https://stream1.freetv.fun/3f293206d815479c13d1b369e5ce32ea20deb286f016f2a557c86580b0c28ea6.ctv
 凤凰卫视香港,https://stream1.freetv.fun/0782cbbfb736bf0face160d2f69a58ad92ba9d5aecf8e063c610f5194ec0bd5c.ctv
 凤凰卫视中文,https://stream1.freetv.fun/bde4a425201648653d2bab6e1b9e58d3602d8919739ae8a0eb33e1c97ff205a8.ctv
 凤凰卫视中文,https://stream1.freetv.fun/2d974525773570a12819a6597a3b0349bd9856ea05c91633862035caed14376d.ctv
@@ -4020,8 +4032,6 @@ mgmplusmarque[geo-blocked],https://stream1.freetv.fun/a435ea8378e869f4318178ceeb
 凤凰卫视资讯,https://stream1.freetv.fun/fe31eaf5bb86cd05e17cde36410d5291e290a6380274cb40313ccf2da19cf6cd.ctv
 凤凰卫视资讯,https://stream1.freetv.fun/775da45dedb5d0e2186c592c1a582aabe6893f527089d022ba7104e2471c96cf.ctv
 凤凰卫视资讯,https://stream1.freetv.fun/f690170414a3ba9ddf0bbff3d2a1deeeccc37ab6c9198cd270d404412200f38c.ctv
-凤凰卫视香港,https://stream1.freetv.fun/befd2cea5524857b26687c6c5ede8b698f02c45d4ae98400ee0fdf0b7f358de1.ctv
-凤凰香港[geo-blocked],https://stream1.freetv.fun/de73fec89305dacef19eafcb697172c30729dd00897cb0d30c80affbb3a582e9.ctv
 
 
 https://gh.catmak.name/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -4032,7 +4042,6 @@ https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_
 https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.txt,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
-福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 
 
@@ -4179,7 +4188,7 @@ CCTV1_,http://69.30.245.50/live/cctv1.m3u8
 CCTV4K_,http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV2_,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3_,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV5_,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV5_,http://192.151.150.154/live/cctv5hd.m3u8
 CCTV5+_,http://192.151.150.154/live/cctv5p.m3u8
 CCTV16_,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV6_,http://198.204.240.250:82/live/cctv6.m3u8

@@ -3874,12 +3874,25 @@ https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
 
 
 https://live.izbds.com/tv/iptv4.m3u,#genre#
-电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
+电影犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 沭阳综合,https://shuyang-tv-hls.cm.jstv.com:443/shuyang-tv/shuyangzh.m3u8
-福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
+九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
+双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
+柳河,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
+桦甸,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
+汪清,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
+玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
+珲春新闻,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+磐石,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
+舒兰新闻,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
+辉南新闻,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
+通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+靖宇,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
+龙井,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 
@@ -4003,7 +4016,9 @@ https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 cctv-8电视剧,https://stream1.freetv.fun/a59ac83779cb5370427192e331ba9f3d9f8dae2194dbe08c2cc23df97e30ae2e.ctv
 cctv-1,https://stream1.freetv.fun/4e7345ef85f31653e51c5cfe029256a93ae4a56361f120edf824f7b10d8c92aa.m3u8
 cctv-1,https://stream1.freetv.fun/f39b96f77156e6dcf68b7c8679dc1ef1453a3039e8c87a8c5ed5cc3eeb82f571.m3u8
+cctv-4k超,https://stream1.freetv.fun/2e338d7416c3646f38a085799295f137668d96a80a4393b71f1b82735ebdc7e8.ctv
 cctv-1,https://stream1.freetv.fun/8a0402b17a9ae7bcb68cd3da6d8c017dcf3c51cab653b0003dadf377723fef92.m3u8
+cctv-1[geo-blocked],https://stream1.freetv.fun/47bd1f4b18f90d5ea49ab41e10849f8ebb326302d90358c7e075fcacf2e96b3e.ctv
 hoy资讯[geo-blocked],https://stream1.freetv.fun/b24a7d739a39cf40d6bf27b97c643af4f960493a5ee642d73eaca825b40d2823.m3u8
 hoy资讯,https://stream1.freetv.fun/d131ddf4da2e19800696e9c1b73383b83493d2604fe64afcf79555d98c74529c.ctv
 now新闻[geo-blocked],https://stream1.freetv.fun/20616f66b86683e10fd7ea8e601cf70ac08ba2a8b3c17241fcf398fcdec43753.m3u8
@@ -4092,6 +4107,7 @@ https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 ACCDN,https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 BuenaParkTelevision(360p),https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 DidgahTV(576p),https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
+FoxNewsChannel,http://41.205.93.154/FOX-NEWS/index.m3u8
 GlobalWorldTV,https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
 KidsPangTV,https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
 NewKMOVIES,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_343&ads.service_id=GB1700007PK
@@ -4099,6 +4115,7 @@ NewKPOP,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id
 SportsTVPlus,https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now
 TVSTelevisionNetwork,https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
 VelayatTV,https://nl.livekadeh.com/hls2/velayattv.m3u8
+WNJU-DT1,http://104.238.205.28:9090/278678_.m3u8
 
 
 https://iptv-org.github.io/iptv/countries/tw.m3u,#genre#

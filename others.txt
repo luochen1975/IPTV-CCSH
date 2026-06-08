@@ -3875,9 +3875,13 @@ https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
 
 https://live.izbds.com/tv/iptv4.m3u,#genre#
 电影犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn
+新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
+中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
+四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 沭阳综合,https://shuyang-tv-hls.cm.jstv.com:443/shuyang-tv/shuyangzh.m3u8
+环球旅游,http://120.76.248.139/live/bfgd/4200000147.m3u8
 福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
@@ -4022,13 +4026,14 @@ cctv-1[geo-blocked],https://stream1.freetv.fun/47bd1f4b18f90d5ea49ab41e10849f8eb
 hoy资讯[geo-blocked],https://stream1.freetv.fun/b24a7d739a39cf40d6bf27b97c643af4f960493a5ee642d73eaca825b40d2823.m3u8
 hoy资讯,https://stream1.freetv.fun/d131ddf4da2e19800696e9c1b73383b83493d2604fe64afcf79555d98c74529c.ctv
 now新闻[geo-blocked],https://stream1.freetv.fun/20616f66b86683e10fd7ea8e601cf70ac08ba2a8b3c17241fcf398fcdec43753.m3u8
-tvbplus1[geo-blocked],https://stream1.freetv.fun/79fe2a2693c2d51c20d8256be713d1b0befef65e0631489a52653b37b13d242b.ctv
+tvbplus1,https://stream1.freetv.fun/79fe2a2693c2d51c20d8256be713d1b0befef65e0631489a52653b37b13d242b.ctv
 明珠,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
-无线新闻1[geo-blocked],https://stream1.freetv.fun/af065e0c98676802cea4635a08771ac1c97d6f89a4662481dbb52bcd82f92fdd.ctv
+明珠,https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
+无线新闻1,https://stream1.freetv.fun/af065e0c98676802cea4635a08771ac1c97d6f89a4662481dbb52bcd82f92fdd.ctv
 翡翠,https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.ctv
 翡翠,https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.m3u8
 翡翠一台,https://stream1.freetv.fun/4bef1f350d737f4963d9b3011e1936b109569494e30151ee615a0c0b0c19a035.ctv
-翡翠台1[geo-blocked],https://stream1.freetv.fun/3f293206d815479c13d1b369e5ce32ea20deb286f016f2a557c86580b0c28ea6.ctv
+翡翠台1,https://stream1.freetv.fun/3f293206d815479c13d1b369e5ce32ea20deb286f016f2a557c86580b0c28ea6.ctv
 凤凰卫视香港,https://stream1.freetv.fun/0782cbbfb736bf0face160d2f69a58ad92ba9d5aecf8e063c610f5194ec0bd5c.ctv
 凤凰卫视中文,https://stream1.freetv.fun/bde4a425201648653d2bab6e1b9e58d3602d8919739ae8a0eb33e1c97ff205a8.ctv
 凤凰卫视中文,https://stream1.freetv.fun/2d974525773570a12819a6597a3b0349bd9856ea05c91633862035caed14376d.ctv
@@ -4112,6 +4117,7 @@ GlobalWorldTV,https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
 KidsPangTV,https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
 NewKMOVIES,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_343&ads.service_id=GB1700007PK
 NewKPOP,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V
+RTViUS,https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg17233-rtvi-rtvius-wisptvus/cb573d19736c648d9cd43b66cef94682847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7acb35544d865a4e7014e942843fa83439fd501e983800f834a8022f1469d96f58385168b8caa599d00e6241b2a4117f8d023e0a331b1de8a7b069f7e26551b5bf2d1f0942f6ddc2b2939fbf0dbaf648d70a4e875db0c5dd804914bf655e008844686bb38cac0bacf527e2ab0cb496418b5f7acf89e5f509329daf890b7017f96f8007d49dd52d42b3d3d83e9d91185ce67f5dc42d4ee3b775bd58349e9d6d8cae7a4995a8f7f8588fe9a2f4d4f6706038859ec8e7b942ad579a6c0162d125d4cbdc556cd82840a643415f5ea34d5030b86d99e8ddb023eb8057139c62ff8016f06af306268974e93fb6d36f84c60902602eb4a3c9643ffa15e96cdbab45c4adfb6c652ef50e1b407d78467c30e121623e998463c494169a28d0c6c604bd12f95bb4d153d7362d9d68f99f5582a063019577efa888555aefe0cad8074bb350375661f07937eba014bb2037248e61ad6bf1a75c77649bf54ed4d3f0f3decae9e8582c5d945ff18b9aaab6c7e6b0831fc5b64576966318712a31f6b07d0fea2c26d9de3271029cf80dbea898521e59561bc02af7509cadd185b005e7f6245cede389716d59a13bd94dd4f8cc1b95214d572f35a50a9d9d23aacb6c1df195bd9ea7609779bd610c07106ce039b7edb853e8be6154e37147465eec214f356b2dadae02e9927a206435de26ab491e6fc87320ea9c104637d5915247e54773e05f78f86334e28bace528c37d1e25bad4d43207f168ef06770b2a8264cd2650423cfc6ec84a2cd0f15b01ed77ddb6f0ea317406ed6c536ee8ca5e0b8e04b5113d2a2a45cb1c3dfd02cb749c991ba0a0f9cf6941b545b5e693352c474c72f94/71/1280x720_3572008/index.m3u8
 SportsTVPlus,https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now
 TVSTelevisionNetwork,https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
 VelayatTV,https://nl.livekadeh.com/hls2/velayattv.m3u8
@@ -4191,16 +4197,12 @@ CCTV8K_,http://198.204.240.250:82/live/cctv8k.m3u8
 VOA美国之音_,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 Xinjiang_TV_2,http://110.153.180.106:55555/out_3/index.m3u8
 Xinjiang_TV_3,http://110.153.180.106:55555/out_2/index.m3u8
-Xinjiang_TV_5,http://106.124.91.222:9901/tsfile/live/21216_1.m3u8?authid=0&key=txiptv&playlive=0
 Xinjiang_TV_8,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 CCTV14_,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV1_,http://69.30.245.50/live/cctv1.m3u8
 CCTV4K_,http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV2_,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3_,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV5_,http://192.151.150.154/live/cctv5hd.m3u8
-CCTV5+_,http://192.151.150.154/live/cctv5p.m3u8
-CCTV16_,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV6_,http://198.204.240.250:82/live/cctv6.m3u8
 CCTV7_,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV10_,http://74.91.26.218:82/live/cctv10hd.m3u8
@@ -4208,6 +4210,7 @@ CCTV8_,http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV11_,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV15_,https://xykt-fix.github.io/play/a02e/index.m3u8
 CCTV12_,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV16_,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17_,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 

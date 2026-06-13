@@ -4007,7 +4007,9 @@ https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
 
 
 https://live.izbds.com/tv/iptv4.m3u,#genre#
+电影丧尸片,http://live.metshop.top/huya/21059578?cdn=alicdn
 电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
+电影嫣然影厅,http://live.metshop.top/huya/11601977?cdn=alicdn
 电影梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
 电影犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn
 贝爷求生,http://www.goodiptv.club/douyu/9661369
@@ -4016,6 +4018,7 @@ https://live.izbds.com/tv/iptv4.m3u,#genre#
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
@@ -4150,8 +4153,6 @@ https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 cctv-8电视剧,https://stream1.freetv.fun/a59ac83779cb5370427192e331ba9f3d9f8dae2194dbe08c2cc23df97e30ae2e.ctv
 cctv-5体育,https://stream1.freetv.fun/879e5711563465069616775f329a9231f38887c8146e7e06f2a86f766caa774d.ctv
-cctv-4k超,https://stream1.freetv.fun/4cafcde3d88c72f22b5dc9502959f95ef75cc5eb8db1eda9f0043784504b57c4.ctv
-cctv-4k超,https://stream1.freetv.fun/c65a629c9e66ecd8e19b54929697db5a572222bf2969e74f81551a9e65148187.ctv
 悬疑movie[geo-blocked],https://stream1.freetv.fun/272beffed35f2cb7c974aeefa04c155e4a4d0e7e23d12c022b5d276a96ad2439.ctv
 凤凰卫视中文,https://stream1.freetv.fun/bde4a425201648653d2bab6e1b9e58d3602d8919739ae8a0eb33e1c97ff205a8.ctv
 凤凰卫视资讯,https://stream1.freetv.fun/f690170414a3ba9ddf0bbff3d2a1deeeccc37ab6c9198cd270d404412200f38c.ctv
@@ -4165,7 +4166,7 @@ https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_
 https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.txt,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
-镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 
 https://jihulab.com/-/snippets/5265/raw/main/.txt,#genre#

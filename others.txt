@@ -3831,15 +3831,8 @@ https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
 
 
 https://live.izbds.com/tv/iptv4.m3u,#genre#
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
-电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
-电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
-贝爷求生,http://www.goodiptv.club/douyu/9661369
-延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
-昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
-福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=2987cc24bada6a8c25589409a6452d9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV20241,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+四川卫视4K,http://112.27.235.94:8000/hls/35/index.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
@@ -3854,7 +3847,6 @@ https://live.izbds.com/tv/iptv4.m3u,#genre#
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 靖宇,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 龙井,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
-2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 
 https://live.izbds.com/tv/iptv6.m3u,#genre#
@@ -4293,7 +4285,7 @@ https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 axncee,https://stream1.freetv.fun/ecb74d001737c7b03d21aae153b310c7adaf3a6ba98db633380308e73257c22f.ctv
 cctv-12社会与法,https://stream1.freetv.fun/8fec588fa09e356552f56f5e64a875f44c72f6ef785b0d2b4bbd6527f64e804e.ctv
 cctv-5体育,https://stream1.freetv.fun/879e5711563465069616775f329a9231f38887c8146e7e06f2a86f766caa774d.m3u8
-cctv-1综合,https://stream1.freetv.fun/4669e2d95985f2b9df7690407b9c16ae20864ad0961e7c041bddaa8b97c0e08c.ctv
+cctv-1综合[geo-blocked],https://stream1.freetv.fun/4669e2d95985f2b9df7690407b9c16ae20864ad0961e7c041bddaa8b97c0e08c.ctv
 lanacionplus,https://stream1.freetv.fun/f8ce67e6bb1c3b401920cd3e06f2c0a5a12dc0c0be47ed9e496ead5c6f22a4db.m3u8
 cctv1,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
 cctv1[geo-blocked],https://stream1.freetv.fun/9b27262386aa6dcea6f0caf47d6ac2d64d0d956dc3a69f0ad78f166dde78e94b.m3u8
@@ -4312,9 +4304,8 @@ hoy资讯,https://stream1.freetv.fun/d131ddf4da2e19800696e9c1b73383b83493d2604fe
 movies!,https://stream1.freetv.fun/c9c0ae927ecbeb4d1e241daade733ac04f296ddfc089329f5897c6d6ccb03961.ctv
 movies!,https://stream1.freetv.fun/0103cabb721f9484ff52ac55c2f4e616fa216724400abe5d8dfeadfc57626569.m3u8
 now新闻,https://stream1.freetv.fun/60ac4015a508533f429e33b5d560c3f5b07a3f99a362214308f832a4f5bc138b.ctv
-nowsports618,https://stream1.freetv.fun/fabadc33b2c8837b2b8cdf5ecf3eb70018705b0feea6be41720044f711685535.ctv
+now新闻,https://stream1.freetv.fun/9dec549cbac511cacca85d2e5738d965955eadcb5b4fe5974ae97fdf4733ae72.ctv
 now618hd,https://stream1.freetv.fun/a3a7ac3c641bb4396e4b7e718e750c35a8de338a7ae806916716c51b6c443160.ctv
-nowsports619,https://stream1.freetv.fun/134a68bd69a4c678d0ab4c2041c251e4e1e4b75f9a9295ef28424e4816d8631d.ctv
 rthk31,https://stream1.freetv.fun/bcd3e759b0c9f8807280e9cb8fc50c6919ffad577b1d5d21f392f601d93301bc.ctv
 rthk32,https://stream1.freetv.fun/4e2f5ecdf24236f647b765089947b507cb0191011759d44788ee936dd194add6.ctv
 rthk33,https://stream1.freetv.fun/3d32ed5e32eeae179d2bc42f25cd452226dad0093f2c6a64bf1f3c11f6bd430d.ctv
@@ -4324,7 +4315,7 @@ tvbj1,https://stream1.freetv.fun/0ec81d9c93874ceecf668ef57b76e5a59ee66db6bb26e52
 tvbplus,https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.m3u8
 tvbplus,https://stream1.freetv.fun/6ade45822dc9265d4aba6c1854bfd6a2635b13d96624929150024f662eca25d7.ctv
 tvbplus,https://stream1.freetv.fun/dec5e1d162ddc4e733fb714c2c8795323ccf94261596cffe7ee65f0034986c70.m3u8
-tvplus[geo-blocked],https://stream1.freetv.fun/2f80d36164c17d73393a9a44c7d948bd6cf288781e902ddbc0d05d53f0068150.m3u8
+tvplus,https://stream1.freetv.fun/2f80d36164c17d73393a9a44c7d948bd6cf288781e902ddbc0d05d53f0068150.m3u8
 metvplus,https://stream1.freetv.fun/3f859bba2ebe90c7fabbc6976bd6d474e2388e545755de1989ea754882dfdd58.ctv
 tvb亚洲武侠,https://stream1.freetv.fun/b2e2926fe38c131ba0539f21a4cc2ec34401c6b95a1efe8934b2e2ca47cb8d68.ctv
 tvb1,https://stream1.freetv.fun/f297c4c2b0129696b30c596fe0741ec59b215c9db789bb10bba601dd3ba5f81e.ctv
@@ -4337,8 +4328,7 @@ viutv,https://stream1.freetv.fun/ad77293b3968d9314a0a612d10a82fcd2617e3370c75035
 viutv,https://stream1.freetv.fun/566447a554a11bb540e5e37ea32162caa2959fefd3707625f70de6ac96255364.m3u8
 viutvsix,https://stream1.freetv.fun/1a7fde3e70bcb4a1190775d117fd0b40eb3beb97588b4db2afffb8d819b3cdec.m3u8
 viutvsix,https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32f33ffbb019c1171ac507.m3u8
-nbcsportsnow[geo-blocked],https://stream1.freetv.fun/259f8cf0c66ab8638ca593f2d185133facfc4ec0c5d6306e1188fe42440e0fcc.m3u8
-nowsports精选,https://stream1.freetv.fun/532b7aadf6620fa7495d3e9d13dd327378e73a41d774b8e0af98450c24fa8a51.m3u8
+nbcsportsnow,https://stream1.freetv.fun/259f8cf0c66ab8638ca593f2d185133facfc4ec0c5d6306e1188fe42440e0fcc.m3u8
 now财经,https://stream1.freetv.fun/6f9c76c500afbfd33350f7e4ab4b7051a577ab6e5f1a9317b35b8c7f1f838512.m3u8
 now直播,https://stream1.freetv.fun/2513c26261a06c512471eb0ad14c99576978654e8e494c2a8cd6571c3a3b7c50.m3u8
 明珠[geo-blocked],https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
@@ -4349,8 +4339,7 @@ now直播,https://stream1.freetv.fun/2513c26261a06c512471eb0ad14c99576978654e8e4
 翡翠,https://stream1.freetv.fun/b1128a129ebb9fd5ddde711ab565c82831400d80e5aa6aa9822e6c1b33ed95c5.m3u8
 翡翠,https://stream1.freetv.fun/07b8f89d6c2bf405852bd8eb695e2389afdb45dfaf30d5273f8d2b819720681f.ctv
 翡翠,https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6ce5a85dcb0c4.m3u8
-翡翠,https://stream1.freetv.fun/ec738c8f8b5d5706670eb42e4fe79edc5d6f471ba93d0eb20dff4c372efef4db.m3u8
-翡翠台b,https://stream1.freetv.fun/865b4170a3a3115db3936fcb9aee58e03b10f5655c081ba4ee256243bcc265ce.ctv
+翡翠台b[geo-blocked],https://stream1.freetv.fun/865b4170a3a3115db3936fcb9aee58e03b10f5655c081ba4ee256243bcc265ce.ctv
 凤凰卫视中文,https://stream1.freetv.fun/bde4a425201648653d2bab6e1b9e58d3602d8919739ae8a0eb33e1c97ff205a8.ctv
 凤凰卫视中文[geo-blocked],https://stream1.freetv.fun/daeb9e15e92a937b5997e93493291a0f77778084da1e26df1a0c79d869766fb6.ctv
 凤凰卫视中文,https://stream1.freetv.fun/abf0dd89a3d8030e6464e736ad8b2c92c562eee2c9e491fa324de6b5d50b558a.ctv
@@ -4370,8 +4359,7 @@ https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_
 https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.txt,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
-福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
+东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
 
 https://jihulab.com/-/snippets/5265/raw/main/.txt,#genre#
@@ -4465,6 +4453,7 @@ JuntosTV,https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8
 KaloopyTV,https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
 KCKS-LD25.3,https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
 KidsStreet,http://181.78.121.15:8000/play/a00a/index.m3u8
+LBCInternational,http://185.9.2.18/chid_327/index.m3u8
 LifetimeMovies,http://23.237.104.106:8080/USA_LMN/index.m3u8
 MotorTrend,http://185.246.209.113/MotorTrendHD/index.m3u8
 MSG,http://23.237.104.106:8080/USA_MSG/index.m3u8
@@ -4475,15 +4464,18 @@ NickJr.(576p),http://84.17.50.102/nickjr/index.m3u8
 Nicktoons,http://41.205.93.154/NICKTOONS/index.m3u8
 OCNTV,https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
 RTR-PlanetaUS,https://stream.smotrim.ru/hls2/planeta_rtr_usa/playlist_4.m3u8
+SemillitasTV(576p),http://45.5.117.99:8000/play/a0g3/index.m3u8
 SmithsonianChannel,http://185.246.209.113/SmithsonianHD/index.m3u8
 SPEEDVISION,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fierrofondo.stream/playlist.m3u8
 SportsTVPlus,https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now
+StLuciePublicSchools,https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8
 TVLand,http://185.246.209.113/TVLandHD/index.m3u8
 TVSFilmNoirNetwork,https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
 USANetwork,http://185.246.209.113/DISCOVERYHD/index.m3u8
 VelayatTV,https://nl.livekadeh.com/hls2/velayattv.m3u8
 VICETV,http://23.237.104.106:8080/USA_VICETV/index.m3u8
 WPIX(576p),http://84.17.50.102/cw/index.m3u8
+WSLF-LD35.1,https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
 
 
 https://iptv-org.github.io/iptv/countries/tw.m3u,#genre#

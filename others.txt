@@ -4264,7 +4264,6 @@ cctv1综合,https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c51381
 discoverykids[geo-blocked],https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.ctv
 周星驰电影*$,https://stream1.freetv.fun/bedafa2f83a8fd0cb71918ac83582f6dd3ad25c6da27869e38a2e9bd25825a26.m3u8
 周润发电影*$,https://stream1.freetv.fun/181ff4ff73e7320b2ad0795b6a8c32145f54bc8961354ab3160093641564b438.m3u8
-明珠,https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
 星空卫视*$,https://stream1.freetv.fun/c699f8d5e9d547dd164dd3f4990d2974ef3fa73b3f4f82678fa854610dd0edff.m3u8
 林正英影院*$,https://stream1.freetv.fun/34b9e858a6ac4dbf8019192458fe6c81c77298a350702158b8182ac937f47235.m3u8
 翡翠台*$,https://stream1.freetv.fun/dc4e80b4f74d315950fd92efa35595ee23b4fe79f86c8087383c7881ab3c3a74.m3u8
@@ -4281,10 +4280,24 @@ https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_
 https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.txt,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
-电影丧尸片,http://live.metshop.top/huya/21059578?cdn=alicdn
+CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
+CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
+冰冰影剧,http://www.goodiptv.club/douyu/74374
+古装武侠,http://www.goodiptv.club/douyu/2793084
+橙记港剧,http://www.goodiptv.club/douyu/4549169
+电影喜剧专场,http://live.metshop.top/huya/11602044?cdn=alicdn
+电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
+贝爷求生,http://www.goodiptv.club/douyu/9661369
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
+韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
+福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
@@ -4360,18 +4373,31 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
+A&EWest,http://108.181.20.255:27347/livehttpplay?channel_id=23104
 AmericanHorrors,http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 Circle,https://circle-roku.amagi.tv/playlist.m3u8
 FoxSports2,https://streamvidex.qzz.io/videx/fox2usa/index.m3u8
+FYIWest,http://108.181.20.255:27347/livehttpplay?channel_id=23108
+HistoryWest,http://108.181.20.255:27347/livehttpplay?channel_id=23105
 LakewoodCityTV,https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8
+LifetimeMoviesWest,http://108.181.20.255:27347/livehttpplay?channel_id=23107
+LifetimeWest,http://108.181.20.255:27347/livehttpplay?channel_id=23106
 LosAngelesLocalTelevisionChannel36,https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
+MGM+Marquee,http://108.181.20.255:27347/livehttpplay?channel_id=23075
+MGM+West,http://108.181.20.255:27347/livehttpplay?channel_id=23073
 NCMMainChannel,https://reflect-npa.cablecast.tv/live-6/live/live.m3u8
 NewKPOP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
+NickelodeonWest,http://108.181.20.255:27347/livehttpplay?channel_id=23019
+NicktoonsWest,http://108.181.20.255:27347/livehttpplay?channel_id=23079
 OCNTV,https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
 PlutoTVThrillers,https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
 SCCurrents,https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
 SmithsonianChannelSelects,https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+SYFYWest,http://108.181.20.255:27347/livehttpplay?channel_id=23111
 Telemundo,https://streamvidex.qzz.io/videx/telemundo/index.m3u8
+TelemundoWest,http://108.181.20.255:27347/livehttpplay?channel_id=23002
+TUDN,http://108.181.20.255:27347/livehttpplay?channel_id=23092
+TVEInternacionalAmerica(576p)[Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 Yahoo!Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 

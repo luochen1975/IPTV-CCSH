@@ -4212,7 +4212,9 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
+atv,https://stream1.freetv.fun/c879816a86f4bb3fd2f95098e7ca8bf0eb998d9cf641b4193f606bf9b8c28934.m3u8
 cctv-12社会与法[geo-blocked],https://stream1.freetv.fun/8fec588fa09e356552f56f5e64a875f44c72f6ef785b0d2b4bbd6527f64e804e.ctv
+cctv1,https://stream1.freetv.fun/03f7309c87f8123b414526cdb3af993423055700d321370f2452910618907527.m3u8
 cctv1综合,https://stream1.freetv.fun/e2d614c15f9f44a66769286821f4e204843fbb1ea976d65e2e7380425aa5b412.ctv
 cctv-1[geo-blocked],https://stream1.freetv.fun/9f1b84dd3a947a7915d0bc74607ef26453ecebe1bbc5d5c0fa624007ac18b0ec.ctv
 cctv1,rtmp://yftv-wshls.yzbtv.cn/live/4387
@@ -4246,7 +4248,6 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
-镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
@@ -4320,11 +4321,17 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
+AlbanianTVAmerica,http://5.254.89.106/8711/index.m3u8
 CW[Geo-blocked],https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8
 Fox[Geo-blocked],https://messi.damitv.st/papi/ts/fox-usa/playlist.m3u8
 FoxSports2,https://tvsen7.aynascope.net/foxsports2/index.m3u8
+KMCT-TV39.1,https://wggstv16.ddns.net:9953/hls/KMCT1.m3u8
+Lifetime(576p),https://tvsen7.aynaott.com/lifetime/index.m3u8
 MLBNetwork[Geo-blocked],https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8
+MoreMaxEastHD,https://sra72yz.s.gy/MORE_MAX_EAST_HD.m3u8
 NewKPOP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
+TheDoctors,https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
+WGGS-TV16.1,https://wggstv16.ddns.net:9953/hls/WGGS1.m3u8
 
 
 https://iptv-org.github.io/iptv/countries/tw.m3u,#genre#
@@ -4356,6 +4363,13 @@ https://m3u.ibert.me/txt/y_g.txt,#genre#
 http://xhztv.top/v6.txt,#genre#
 https://gitee.com/tushaoyong/live/raw/master/接口/IPV6.txt,#genre#
 http://tot.totalh.net/tttt.txt,#genre#
+BRTV生活,http://kkk.888.3116598.xyz/api.php?n=tttt&id=8uZGk3&tk=FgM0vQMejxvG
+鉴赏,http://kkk.888.3116598.xyz/api.php?n=tttt&id=dcavJd&tk=FgM0vQMejxvG
+CGTN阿拉伯语,http://kkk.888.3116598.xyz/api.php?n=tttt&id=VKfCNB&tk=FgM0vQMejxvG
+四川卫视-NPTV,http://kkk.888.3116598.xyz/api.php?n=tttt&id=IPfKCM&tk=FgM0vQMejxvG
+YY-动漫-动漫2,http://kkk.888.3116598.xyz/api.php?n=tttt&id=gIA3xJ&tk=FgM0vQMejxvG
+
+
 https://codeberg.org/sy147258/iptv/raw/branch/main/电视,#genre#
 https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-CU-ipv6.m3u,#genre#
 https://a90120.serv00.net/anbox/p3plink.txt,#genre#

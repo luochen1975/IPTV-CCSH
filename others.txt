@@ -4094,7 +4094,9 @@ http://xn--elt51t.azip.dpdns.org:5008/?type=txt,#genre#
 https://live.hacks.tools/iptv/languages/zho.m3u,#genre#
 AnhuiTV,https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
 CTS(HUA-CHICTS),rtmp://59.124.75.138:1935/sat/tv111
+GuangxiVariety&TravelChannel,http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 HebeiTV(2160p),https://event.pull.hebtv.com/live/live101.m3u8
+KangbaTV,http://110.185.237.164:8888/hls/30/index.m3u8
 LotusMacauHD720p,https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 NTDTVWest,https://ntd02.akamaized.net/HD-LA/index.m3u8
 QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
@@ -4217,13 +4219,12 @@ https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 atv,https://stream1.freetv.fun/c879816a86f4bb3fd2f95098e7ca8bf0eb998d9cf641b4193f606bf9b8c28934.m3u8
 cctv1,https://stream1.freetv.fun/03f7309c87f8123b414526cdb3af993423055700d321370f2452910618907527.m3u8
 cctv1,https://stream1.freetv.fun/1ac2829498275b94069f38237608a409baf61852cd00057d2347d2fe05e8b91c.m3u8
+cctv1,https://stream1.freetv.fun/7fc5ab48edadd4271d56cf595145826c5c70d157fe205a65b3d2fa95c9b99394.m3u8
 cctv1综合,https://stream1.freetv.fun/e2d614c15f9f44a66769286821f4e204843fbb1ea976d65e2e7380425aa5b412.ctv
 cctv-1[geo-blocked],https://stream1.freetv.fun/9f1b84dd3a947a7915d0bc74607ef26453ecebe1bbc5d5c0fa624007ac18b0ec.ctv
 cctv1,rtmp://yftv-wshls.yzbtv.cn/live/4387
 cctv1综合,https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
-now星影,https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.ctv
-now爆谷,https://stream1.freetv.fun/3f31f2dce2add4c7542daf68797a0bf424ceff7fb57654cbcf47f6b095189809.ctv
-rhk32,https://stream1.freetv.fun/ce3c1b481c95249ff587a461575438cec211e9edd65475e32252819876e6b018.ctv
+tigosportsplus[geo-blocked],https://stream1.freetv.fun/0cb3dfa6cb8b32968c0883eb088f15d582d5a03dc63c4b43b2aa615ed80f9698.m3u8
 tvbplus,https://stream1.freetv.fun/98f8d72ac1e36f0754f5ffbe2be02dc15727ab560b18903a36a7ad4655d931a3.ctv
 周星驰电影*$,https://stream1.freetv.fun/bedafa2f83a8fd0cb71918ac83582f6dd3ad25c6da27869e38a2e9bd25825a26.m3u8
 周润发电影*$,https://stream1.freetv.fun/181ff4ff73e7320b2ad0795b6a8c32145f54bc8961354ab3160093641564b438.m3u8
@@ -4233,10 +4234,9 @@ tvbplus,https://stream1.freetv.fun/98f8d72ac1e36f0754f5ffbe2be02dc15727ab560b189
 港台电视32,https://stream1.freetv.fun/83565c6d94867f316dad35ee685de5a9b658b08c4f90bcea5305e2a72c394fcf.ctv
 翡翠台[geo-blocked],https://stream1.freetv.fun/829b7e0470319a0e8fff9a9cc0eccdf0f87d0785005387b2a9f38fd9c7cde69c.ctv
 翡翠,https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.ctv
-翡翠[geo-blocked],https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6ce5a85dcb0c4.ctv
 凤凰电影*$,https://stream1.freetv.fun/857fbc509d99a650aa2fcc8378757a498c921707045def964734f7960accbe7b.m3u8
 黄金华剧,https://stream1.freetv.fun/f12e3b9290373db53f8f62b0c3cd8d2ef03e9422865547a4a518bb6547160c7b.ctv
-黄金华剧台粤[geo-blocked],https://stream1.freetv.fun/05c56122e51dc2dc6266d25000d2ee230b16079f2cc3a51698bed66a8a97505f.ctv
+黄金华剧台粤,https://stream1.freetv.fun/05c56122e51dc2dc6266d25000d2ee230b16079f2cc3a51698bed66a8a97505f.ctv
 
 
 https://gh.catmak.name/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -4258,10 +4258,14 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 林正英电影,https://live.metshop.top/huya/11342421
 枪战电影,https://live.metshop.top/huya/21059579
 沈腾电影,https://live.metshop.top/huya/11601968
+新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
+中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
+环球旅游,http://120.76.248.139/live/bfgd/4200000147.m3u8
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
@@ -4343,6 +4347,8 @@ BATVGovernmentChannel,https://livestream.telvue.com/billerica3/f7b44cfafd5c52223
 BATVPublicChannel,https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 BestofBATVChannel,https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 CW[Geo-blocked],https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8
+ESPNews,http://41.205.93.154/ESPNNEWS/index.m3u8
+FaithTV,https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
 FMHKids,https://cdn1tlinkgo.tlink.cl/fmhkidshd/index.m3u8
 FMHMovies,https://cdn1tlinkgo.tlink.cl/fmhmovies/index.m3u8
 Fox[Geo-blocked],https://messi.damitv.st/papi/ts/fox-usa/playlist.m3u8
@@ -4352,9 +4358,10 @@ FXMovieChannel,http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/in
 KMCT-TV39.1,https://wggstv16.ddns.net:9953/hls/KMCT1.m3u8
 Lifetime(576p),https://tvsen7.aynaott.com/lifetime/index.m3u8
 MLBNetwork[Geo-blocked],https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8
-MoreMaxEastHD,https://sra72yz.s.gy/MORE_MAX_EAST_HD.m3u8
 NewKPOP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
+SECNetwork,http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 TheDoctors,https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
+TheWalkTV,https://wggstv16.ddns.net:9953/hls/walk1.m3u8
 TVEInternacionalAmerica,https://cdn1tlinkgo.tlink.cl/tve/index.m3u8
 WGGS-TV16.1,https://wggstv16.ddns.net:9953/hls/WGGS1.m3u8
 

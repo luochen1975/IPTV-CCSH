@@ -3991,6 +3991,8 @@ http://xn--elt51t.azip.dpdns.org:5008/?type=txt,#genre#
 https://live.hacks.tools/iptv/languages/zho.m3u,#genre#
 BRTV北京卫视,http://go.bkpcp.top/mg/bjws
 CTS(HUA-CHICTS),rtmp://59.124.75.138:1935/sat/tv111
+DaAi2,http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
+MOMOTV,http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 
 
@@ -4106,7 +4108,11 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
+cctv1综合,https://stream1.freetv.fun/5ea694dedf81eabc3a9363cac99632afadb3d416016b833315847e5d1ee5dd3e.ctv
+cctv1综合,https://stream1.freetv.fun/e2d614c15f9f44a66769286821f4e204843fbb1ea976d65e2e7380425aa5b412.ctv
+cctv1综合,https://stream1.freetv.fun/5018fc141cbd5d5263b2a854286af87c88b69a2a2ba6919ac4e42d6188a5bc81.ctv
 cctv1,rtmp://yftv-wshls.yzbtv.cn/live/4387
+tvbplus,https://stream1.freetv.fun/45b5e3b36b8de2cefeacb68ed46660185a95abb2ad353aaaaef7f7adc7f0f8ad.ctv
 星空卫视*$,https://stream1.freetv.fun/c699f8d5e9d547dd164dd3f4990d2974ef3fa73b3f4f82678fa854610dd0edff.m3u8
 凤凰电影*$,https://stream1.freetv.fun/857fbc509d99a650aa2fcc8378757a498c921707045def964734f7960accbe7b.m3u8
 
@@ -4131,6 +4137,7 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 长影频道,http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
@@ -4203,8 +4210,6 @@ https://gh.catmak.name/https://raw.githubusercontent.com/alienlu/iptv/refs/heads
 https://gh.catmak.name/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt,#genre#
 https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
-DaAi2,http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
-MOMOTV,http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#

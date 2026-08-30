@@ -3989,6 +3989,7 @@ https://web.banye.tech:7777/tv/hlj.txt,#genre#
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/电视.txt,#genre#
 http://xn--elt51t.azip.dpdns.org:5008/?type=txt,#genre#
 https://live.hacks.tools/iptv/languages/zho.m3u,#genre#
+8TV[Geo-blocked],https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325
 BRTV北京卫视,http://go.bkpcp.top/mg/bjws
 CTS(HUA-CHICTS),rtmp://59.124.75.138:1935/sat/tv111
 DaAi2,http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
@@ -4108,14 +4109,26 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
+cctv-8电视剧[geo-blocked],https://stream1.freetv.fun/a59ac83779cb5370427192e331ba9f3d9f8dae2194dbe08c2cc23df97e30ae2e.ctv
 cctv1综合,https://stream1.freetv.fun/5ea694dedf81eabc3a9363cac99632afadb3d416016b833315847e5d1ee5dd3e.ctv
 cctv1综合,https://stream1.freetv.fun/e2d614c15f9f44a66769286821f4e204843fbb1ea976d65e2e7380425aa5b412.ctv
 cctv1综合,https://stream1.freetv.fun/5018fc141cbd5d5263b2a854286af87c88b69a2a2ba6919ac4e42d6188a5bc81.ctv
+cctv-1[geo-blocked],https://stream1.freetv.fun/aca593418a5d387996e89adf3a0452856e5623d7759d2ff35078a7e3968f47e8.ctv
+cctv-1,https://stream1.freetv.fun/4e7345ef85f31653e51c5cfe029256a93ae4a56361f120edf824f7b10d8c92aa.m3u8
+cctv1hd,https://stream1.freetv.fun/11a992d2dbf1f8f1eb6d14cee0b3b078a2cb8f94f3e094554492d9a4984f1bc9.m3u8
+cctv-4k超,https://stream1.freetv.fun/5d4213276b9703523ca4f8cbf694ad036106486cfa7c37443a8385da27dd3feb.m3u8
+cctv-1hd,https://stream1.freetv.fun/bd9b67c45826c881df23e50dc06ab7ff063cbd42c599ea5ccf2c947fe859f299.m3u8
+cctv-1hd,https://stream1.freetv.fun/cd24616fb58ad5d37f7617087048141cc422a5b3bf5bd29ec5d17a66f3625a1a.m3u8
 cctv-1,https://stream1.freetv.fun/9f1b84dd3a947a7915d0bc74607ef26453ecebe1bbc5d5c0fa624007ac18b0ec.m3u8
 cctv1,rtmp://yftv-wshls.yzbtv.cn/live/4387
+discoverykids,https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.m3u8
 tvbplus,https://stream1.freetv.fun/45b5e3b36b8de2cefeacb68ed46660185a95abb2ad353aaaaef7f7adc7f0f8ad.ctv
+etvplus,https://stream1.freetv.fun/f154902517f39c01a56296587c62613fee9c99bc97e5dc6867da9a187c96aa13.m3u8
+tvb1[geo-blocked],https://stream1.freetv.fun/f297c4c2b0129696b30c596fe0741ec59b215c9db789bb10bba601dd3ba5f81e.ctv
+viutv[geo-blocked],https://stream1.freetv.fun/855fcf2cb6242c3bbf91d073a966eefcecb239f58f03460b4947d32ee7785d2c.ctv
 prime,https://stream1.freetv.fun/1c11185599447b07797934e6323f5ed6cea551e71803978de70464f6161fb263.m3u8
 星空卫视*$,https://stream1.freetv.fun/c699f8d5e9d547dd164dd3f4990d2974ef3fa73b3f4f82678fa854610dd0edff.m3u8
+翡翠台[geo-blocked],https://stream1.freetv.fun/f47d16542d51e01285a1b9ce86acd63ff3f5522b3a256f392628327f068a63fa.ctv
 凤凰电影*$,https://stream1.freetv.fun/857fbc509d99a650aa2fcc8378757a498c921707045def964734f7960accbe7b.m3u8
 
 
@@ -4127,7 +4140,6 @@ https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_
 https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.txt,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
-东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 刘德华电影,https://live.metshop.top/huya/11342424
 周星驰电影,https://live.metshop.top/huya/11342412
 妙手仁心,https://live.metshop.top/huya/29465853
@@ -4137,10 +4149,7 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 枪战电影,https://live.metshop.top/huya/21059579
 沈腾电影,https://live.metshop.top/huya/11601968
 电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
-延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
-武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 长影频道,http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
@@ -4217,7 +4226,6 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 90'sKids,https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
-ACCNetworkHD,https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F23.239.31.26%3A8989%2Faccnetwork%2Findex.m3u8
 AmericanHorrors,http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 Atlanta's57WATCTOO57.2,https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 ClassicMoviesChannel,https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
@@ -4228,8 +4236,9 @@ Investiga,https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
 KVIE-DT2,https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
 NewKMOVIES,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
 NewKPOP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
-NickelodeonEastHD,https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F198.58.104.90%3A8989%2Fnickelodeon%2Findex.m3u8
 PlutoTVCrimeMovies,https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
+RadiantTV,https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8
+SchwabNetwork,https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 WDEF-TVNewsChattanoogaTN,https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8
 
 

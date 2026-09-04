@@ -5321,7 +5321,10 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
+cctv-1hd,https://stream1.freetv.fun/7bcb9055df8789fe1d3ab53c3907e5a0aac9ecd18c827a5c94148e850d9ab4fe.m3u8
 cctv1,rtmp://yftv-wshls.yzbtv.cn/live/4387
+cctv1综合,https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
+cctv-1hd,https://stream1.freetv.fun/fb9d0546553a21c4591a86f298dad5f4b1556dc13b03d1aaa1c17d787f27678e.m3u8
 星空卫视*$,https://stream1.freetv.fun/c699f8d5e9d547dd164dd3f4990d2974ef3fa73b3f4f82678fa854610dd0edff.m3u8
 凤凰电影*$,https://stream1.freetv.fun/857fbc509d99a650aa2fcc8378757a498c921707045def964734f7960accbe7b.m3u8
 
@@ -5334,9 +5337,65 @@ https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_
 https://gh.catmak.name/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.txt,#genre#
 https://gh.catmak.name/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
+CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
+刑事侦缉档案,https://live.metshop.top/huya/29465856
+刘德华电影,https://live.metshop.top/huya/11342424
+创世纪,https://live.metshop.top/huya/29465852
+功夫电影,https://live.metshop.top/huya/11352941
+古天乐电影,https://live.metshop.top/huya/29982675
+周星驰电影,https://live.metshop.top/huya/11342412
+大唐双龙传,https://live.metshop.top/huya/29465850
+宇宙科幻合集,https://live.metshop.top/huya/11342428
+强森电影,https://live.metshop.top/huya/21059581
+怪兽电影,https://live.metshop.top/huya/21059577
+成龙电影,https://live.metshop.top/huya/11342386
+战争电影,https://live.metshop.top/huya/21059574
+扫黄先锋,https://live.metshop.top/huya/29465855
+无心法师,https://live.metshop.top/huya/30080233
+李连杰电影,https://live.metshop.top/huya/11342390
+林正英电影,https://live.metshop.top/huya/11342421
+枪战电影,https://live.metshop.top/huya/21059579
+楚汉骄雄,https://live.metshop.top/huya/29465854
+武侠电影,https://live.metshop.top/huya/11342427
+沈腾电影,https://live.metshop.top/huya/11601968
+法政先锋,https://live.metshop.top/huya/23863804
+洗冤录,https://live.metshop.top/huya/29465851
+活佛济公3,https://live.metshop.top/huya/23903123
+狄仁杰电影,https://live.metshop.top/huya/30080229
+电影丧尸片,http://live.metshop.top/huya/21059578?cdn=alicdn
+电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
+电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
+电影功夫片,http://live.metshop.top/huya/11352941?cdn=alicdn
+电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
+电影周星星,http://live.metshop.top/huya/11336587?cdn=alicdn
+电影喜剧专场,http://live.metshop.top/huya/11602044?cdn=alicdn
+电影嫣然影厅,http://live.metshop.top/huya/11601977?cdn=alicdn
+电影战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
+电影搞笑喜剧,http://live.metshop.top/huya/11342423?cdn=alicdn
+电影梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
+电影犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn
+电影蜘蛛侠,http://live.metshop.top/huya/21059599?cdn=alicdn
+电影谍战,http://live.metshop.top/huya/21059585?cdn=alicdn
+电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
+电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
+电影高分动作,http://live.metshop.top/huya/11352884?cdn=alicdn
+西游记2,https://live.metshop.top/huya/29465859
+谍战电影,https://live.metshop.top/huya/21059585
+贺岁电影,https://live.metshop.top/huya/11601986
+野蛮亲家,https://live.metshop.top/huya/23863796
+金庸武侠,https://live.metshop.top/huya/11342435
+金枝欲孽,https://live.metshop.top/huya/29465847
+鉴证实录,https://live.metshop.top/huya/23903183
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+黄渤电影,https://live.metshop.top/huya/11352876
+韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
+CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
@@ -5352,6 +5411,7 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 靖宇,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 龙井,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
+笑看风云,https://live.metshop.top/huya/29465858
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 
@@ -5412,9 +5472,12 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 AccessTuolumne(TuolumneCountyCA),https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8
 AmericanHorrors,http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+AVIRewind,http://45.70.201.81:8000/play/a010/index.m3u8
 BounceXL,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+FierroaFondoTV,http://45.70.201.81:8000/play/a00x/index.m3u8
 FXMovieChannel,http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8
 HarvestUSA(576p),https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+ZTV,http://45.70.201.81:8000/play/a00u/index.m3u8
 
 
 https://iptv-org.github.io/iptv/countries/tw.m3u,#genre#
